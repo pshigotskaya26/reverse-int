@@ -15,5 +15,5 @@ for (i = nToString.length -1 ; i >= 0; i--) {
     reverseString += nToString[i];
 }
 
-return reverseString;
+return +reverseString;
 }
